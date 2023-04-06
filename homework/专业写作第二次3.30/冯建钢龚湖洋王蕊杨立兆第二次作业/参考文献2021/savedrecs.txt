@@ -1,0 +1,44 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AN 33879872
+DT Journal Article; Review
+TI Prodromal Parkinson disease subtypes - key to understanding heterogeneity.
+AU Berg, Daniela
+   Borghammer, Per
+   Fereshtehnejad, Seyed-Mohammad
+   Heinzel, Sebastian
+   Horsager, Jacob
+   Schaeffer, Eva
+   Postuma, Ronald B
+SO Nature reviews. Neurology
+VL 17
+IS 6
+PS 349-361
+PY 2021
+PD 2021 06 (Epub 2021 Apr 20)
+LA English
+U1 9
+U2 31
+AB In Parkinson disease (PD), pathological processes and neurodegeneration begin long before the cardinal motor symptoms develop and enable clinical diagnosis. In this prodromal phase, risk and prodromal markers can be used to identify individuals who are likely to develop PD, as in the recently updated International Parkinson and Movement Disorders Society research criteria for prodromal PD. However, increasing evidence suggests that clinical and prodromal PD are heterogeneous, and can be classified into subtypes with different clinical manifestations, pathomechanisms and patterns of spatial and temporal progression in the CNS and PNS. Genetic, pathological and imaging markers, as well as motor and non-motor symptoms, might define prodromal subtypes of PD. Moreover, concomitant pathology or other factors, including amyloid-beta and tau pathology, age and environmental factors, can cause variability in prodromal PD. Patients with REM sleep behaviour disorder (RBD) exhibit distinct patterns of alpha-synuclein pathology propagation and might indicate a body-first subtype rather than a brain-first subtype. Identification of prodromal PD subtypes and a full understanding of variability at this stage of the disease is crucial for early and accurate diagnosis and for targeting of neuroprotective interventions to ensure efficacy. 
+C1 Department of Neurology, Christian-Albrechts-University, Kiel, Germany. daniela.berg@uksh.de.; Department of Nuclear Medicine and PET, Aarhus University Hospital, Aarhus, Denmark.; Institute of Clinical Medicine, Aarhus University, Aarhus, Denmark.; Department of Neurology and Neurosurgery, McGill University, Montreal, Quebec, Canada.; Division of Neurology, Department of Medicine, The Ottawa Hospital, University of Ottawa, Ottawa, Ontario, Canada.; Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institute, Stockholm, Sweden.; Department of Neurology, Christian-Albrechts-University, Kiel, Germany.; The Research Institute of the McGill University Health Centre, Montreal, Quebec, Canada.; Center for Advanced Research in Sleep Medicine, Hopital du Sacre-Coeur de Montreal, Montreal, Quebec, Canada.
+RI Berg, Daniela/A-8728-2019; Heinzel, Sebastian/AFK-4188-2022
+OI Berg, Daniela/0000-0001-5796-5442; Borghammer, Per/0000-0001-6391-8052
+MH Biomarkers / metabolism. Brain / *diagnostic imaging; metabolism. Humans. Neuroimaging / methods; trends. Parkinson Disease / *diagnostic imaging; metabolism. *Prodromal Symptoms. REM Sleep Behavior Disorder / *diagnostic imaging; metabolism
+SS Index Medicus
+CN 0 / Biomarkers
+SC Neurosciences & Neurology; Radiology, Nuclear Medicine & Medical Imaging; Pathology; Psychiatry (由 Clarivate Analytics 提供)
+SN 1759-4766
+JC 101500072
+PA England
+SA MEDLINE
+RC  / 17 Jan 2022 / 02 Feb 2023
+PE 20 Apr 2021
+DI 10.1038/s41582-021-00486-9
+UT MEDLINE:33879872
+HC Y
+HP N
+DA 2023-03-30
+ER
+
+EF
